@@ -1,6 +1,17 @@
+#include "first_app.hpp"
 
+int main() {
 
+	Lve::FirstApp app{};
 
+	try {
+		app.run();
+
+	}
+	catch (const std::exception& e) {
+
+	}
+}
 
 
 

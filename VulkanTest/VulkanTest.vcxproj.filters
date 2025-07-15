@@ -26,5 +26,8 @@
     <ClInclude Include="Lve_window.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="first_app.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
